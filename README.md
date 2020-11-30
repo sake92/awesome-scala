@@ -17,7 +17,7 @@ Don't modify `README.md` in your pull request. It is automatically generated. Mo
 
 ## Table of Contents
 
-- [Learning Scala](#learning-scala)
+- [Learning Scala](#learning-scalaaaaaaaaa)
 - [Projects](#projects)
     - [Android](#android)
     - [Artificial Intelligence](#artificial-intelligence)
